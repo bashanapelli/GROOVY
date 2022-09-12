@@ -1,1 +1,1 @@
-echo this is my first project  jenkins
+echo this is my first project  jenkins tool
